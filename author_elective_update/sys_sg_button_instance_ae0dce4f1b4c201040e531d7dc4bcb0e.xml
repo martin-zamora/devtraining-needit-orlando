@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Update Priority">9adf39471b4c201040e531d7dc4bcb3b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Update Priority</label>
+        <location>top</location>
+        <name>Update Priority</name>
+        <order>10</order>
+        <parent>0698fc471b88201040e531d7dc4bcb3b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 21:18:45</sys_created_on>
+        <sys_id>ae0dce4f1b4c201040e531d7dc4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ae0dce4f1b4c201040e531d7dc4bcb0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 21:18:45</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ae0dce4f1b4c201040e531d7dc4bcb0e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ce8d4667db03ff4407072f17d4961947</instance_id>
+        <instance_name>dev91371</instance_name>
+        <name>sys_sg_button_instance_ae0dce4f1b4c201040e531d7dc4bcb0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Update Priority">9adf39471b4c201040e531d7dc4bcb3b</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Update Priority</label><location>top</location><name>Update Priority</name><order>10</order><parent>0698fc471b88201040e531d7dc4bcb3b</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-28 21:18:45</sys_created_on><sys_id>ae0dce4f1b4c201040e531d7dc4bcb0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_ae0dce4f1b4c201040e531d7dc4bcb0e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-28 21:18:45</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=ae0dce4f1b4c201040e531d7dc4bcb0e"/></record_update>]]></payload>
+        <payload_hash>1434134613</payload_hash>
+        <record_name>Update Priority</record_name>
+        <reverted_from/>
+        <source>df3f3c761b00201040e531d7dc4bcb5e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 21:18:45</sys_created_on>
+        <sys_id>a20dce4f1b4c201040e531d7dc4bcb11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1757113d1cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 21:18:45</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>ea0dce4f1b4c201094e818ac7e6d3610</update_guid>
+        <update_guid_history>ea0dce4f1b4c201094e818ac7e6d3610:1434134613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 21:22:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>043840fe053f4071a3239e2111652159</sys_id>
+        <sys_metadata>ae0dce4f1b4c201040e531d7dc4bcb0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_ae0dce4f1b4c201040e531d7dc4bcb0e</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_ae0dce4f1b4c201040e531d7dc4bcb0e">a20dce4f1b4c201040e531d7dc4bcb11</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 21:22:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
